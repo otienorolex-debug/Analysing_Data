@@ -1,0 +1,15 @@
+{
+  "name": "analysing-data",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "datejs": "^1.0.0-rc3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
